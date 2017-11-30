@@ -1,2 +1,2 @@
 # AquariumBot
-Rapsberry Pi / React aquarium monitoring and reporting
+Rapsberry Pi / Vue aquarium monitoring and reporting
